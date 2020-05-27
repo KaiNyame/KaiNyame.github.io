@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Kai Nyame: Contract Work Samples",
-    "currentPage": "Kai Nyame Contract Work Samples.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -30,7 +30,7 @@
     "versionPublish": "3.12.1"
   },
   "pages": {
-    "Kai Nyame Contract Work Samples.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "",
@@ -125,7 +125,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Kai Nyame: Contract Work Samples</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -194,8 +194,8 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/13902539-10207071552651981-8855999660997344291-n-1400x933.jpg",
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "professional headshot photo of Kai Nyame, wearing a dark green turtleneck and a black blazer jacket on a white background, Kai looks directly into the camera",
+              "title": "Kai Nyame Headshot",
               "linkInNewWindow": false
             },
             "video": {
@@ -212,7 +212,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "My name is Kai and I am a Game Designer and Digital Content Creator. With over 6 years of experience as an independent contractor, I have shipped numerous games since I started developing them in 2013, and have worked with clients and their brands to establish online content such as apps, websites and interactive experiences.<br><br>I have worked both as an independent contractor within larger teams, and as a solo developer. Throughout all projects I greatly value communication with the client as a key ingredient to creating meaningful content. I often use my skills to help visualize internal communication with my clients in order to communicate about my design process.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TWITTER</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">EMAIL</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LINKEDIN</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://twitter.com/nyamedev\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TWITTER</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"mailto:kainyame@gmail.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EMAIL</a> <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://linkedin.com/in/kainyame\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LINKEDIN</a>",
           "_styles": {
             "P": {
               "color": "#efefef",
@@ -254,48 +254,48 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
+              "link": "index.html#msg-box8-7",
+              "alt": "Icon of mobile phone and code, showing user experience through symbols like gears, tools and settings icons, UX/UI Consultation Icon",
+              "title": "UX/UI Consultation",
               "linkInNewWindow": false
             }
           },
           "title1": "UX/UI Consultation",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "I design engaging visuals and experiences for a variety of mediums. From wireframes to technical documentation, my skill set allows me to work with teams both big and small. ",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#msg-box8-7\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/webdesign-600x601.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
+              "link": "index.html#msg-box8-8",
+              "alt": "icon symbolizing web design, with icons of a laptop, a mouse cursor and a gear icon, Website Design",
+              "title": "Website Design",
               "linkInNewWindow": false
             }
           },
           "title2": "Website Design",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "I work closely with clients to provide an intuitive browsing experience for their customers’ needs. I pay special attention to create web-content that is clean, easy to read, and ready for the every-day consumer.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#msg-box8-8\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/gamesandapps-600x601.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
+              "link": "index.html#msg-box8-9",
+              "alt": "icon of a video game controller, Games & Apps",
+              "title": "Games & Apps",
               "linkInNewWindow": false
             }
           },
           "title3": "Games &amp; Apps",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "With my background in game design, I focus on creating unique and captivating content for a range of audiences. I enjoy designing gameplay that engages users and keeps them coming back for more",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#msg-box8-9\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -376,8 +376,8 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/kai-makeschool-1400x848.jpg",
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Image of Kai working with students, 3 people including kai surrounding a desk looking down at a laptop",
+              "title": "Working with Clients and Students",
               "linkInNewWindow": false
             },
             "video": {
@@ -469,10 +469,10 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/unnamed.gif",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://prezi.com/view/Vcd7oZTxYW3N0jgf2arL/",
+              "alt": "animated UI gif from a prezi presentation, showing UI flow and onboarding process for a mobile game, Sample Pitch Document",
+              "title": "Sample Pitch Document",
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -487,7 +487,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "For User Experience, User Interface and Gamification contracts, I usually start with a workshop session on User Stories or Persona Profiles. If the client already has these prepared, I can proceed directly into wire-framing. I use a variety of tools such as Adobe XD and Balsamiq, in some cases I will learn additional prototyping tools specifically for a client's project.<br><br>I am often asked to create one of two documents; an external facing \"Pitch\" document, or an internal \"Technical Specifications\" document. I have experience writing/designing for both public/funding facing audiences, as well as internal development teams/engineers. It is very important to specify the type of audience the document is being designed for, so that I can convey the content in the way that will be best received by the recipients. <br><br>View a Sample Pitch Document<br>",
+          "text": "For User Experience, User Interface and Gamification contracts, I usually start with a workshop session on User Stories or Persona Profiles. If the client already has these prepared, I can proceed directly into wire-framing. I use a variety of tools such as Adobe XD and Balsamiq, in some cases I will learn additional prototyping tools specifically for a client's project.<br><br>I am often asked to create one of two documents; an external facing \"Pitch\" document, or an internal \"Technical Specifications\" document. I have experience writing/designing for both public/funding facing audiences, as well as internal development teams/engineers. It is very important to specify the type of audience the document is being designed for, so that I can convey the content in the way that will be best received by the recipients. <br><br><a href=\"https://prezi.com/view/Vcd7oZTxYW3N0jgf2arL/\" target=\"_blank\">View a Sample Pitch Document</a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "P": {
@@ -529,10 +529,10 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/umami-ui-1400x805.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://docs.google.com/file/d/1FGlxCa079cAtpm4hHM8UpKkgwOl-AG7M2VUAhqYXh5o/edit",
+              "alt": "UI mock-up image of a resturant builder mobile title, details ui placement and movement, Sample Technical Specifications",
+              "title": "Sample Technical Specifications",
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -547,12 +547,13 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "The level of detail within wireframes &amp; documents vary and will be based both on the amount of previous documentation and scope of the contract. If there are specific sections that need more detail than others, additional sub-documents can be created. These documents can further address key features, or other notable design elements.<br><br>If a client comes in with no prior documentation, I have created Game Design Documents (GDDs), or more general documentation along with the requested wireframes, and I strive to make each project clearer and more defined, so that future development has less complications.<br><br>View Sample Technical Specifications<br>",
+          "text": "The level of detail within wireframes &amp; documents vary and will be based both on the amount of previous documentation and scope of the contract. If there are specific sections that need more detail than others, additional sub-documents can be created. These documents can further address key features, or other notable design elements.<br><br>If a client comes in with no prior documentation, I have created Game Design Documents (GDDs), or more general documentation along with the requested wireframes, and I strive to make each project clearer and more defined, so that future development has less complications.<br><br><a href=\"https://docs.google.com/file/d/1FGlxCa079cAtpm4hHM8UpKkgwOl-AG7M2VUAhqYXh5o/edit\" target=\"_blank\">View Sample Technical Specifications</a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "P": {
               "color": "#efefef",
-              "font-size": "12px"
+              "font-size": "12px",
+              "text-align": "left"
             }
           }
         },
@@ -588,10 +589,10 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/umamiui2-1400x1820.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://drive.google.com/file/d/1280X_fVcj_37UfGEmcgpmpdga9gwdD1O/view?usp=sharing",
+              "alt": "PDF of a game design document for a sushi-themed mobile match-3 game, a gameplay mockum image is displayed next to text detailing the structure of the game's mechanics and graphics, image leads to a full GDD PDF ",
+              "title": "Sample Game Design Document",
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -606,12 +607,13 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "All materials and documents can be delivered via Google Drive or via Email as a .zip file. Some clients have specific file formats or presentation styles that are not conducive to .zip files. In these cases, a document will be sent with the relevant links to the presentations. All specialized presentation or format requests should be noted at the beginning of the design process.<br><br>All delivered content can be sent back for up to two revisions per document. If a different policy is needed, my timeline &amp; revisions policy can be discussed during the initial phase of the contract. All document requirements, as well as a list of deliverables need to be sent at the beginning of the contract. If additional assets, documentation or materials are needed during a development phase, the list can be amended. However, the overall development timeline may need to be revised if additional documents have been added.<br><br>If requested, previews of in-progress content can be sent so that revisions/additions can be started earlier in the development cycle. If mid-development check-ins are needed, the client will need to make that clear early in the development cycle so that time can be set aside to review these in-process documents. In these cases, the revision policy will still allow for two additional meetings per sprint (assuming two week sprint cycles). <br><br>View a Sample Game Design Document<br>",
+          "text": "All materials and documents can be delivered via Google Drive or via Email as a .zip file. Some clients have specific file formats or presentation styles that are not conducive to .zip files. In these cases, a document will be sent with the relevant links to the presentations. All specialized presentation or format requests should be noted at the beginning of the design process.<br><br>All delivered content can be sent back for up to two revisions per document. If a different policy is needed, my timeline &amp; revisions policy can be discussed during the initial phase of the contract. All document requirements, as well as a list of deliverables need to be sent at the beginning of the contract. If additional assets, documentation or materials are needed during a development phase, the list can be amended. However, the overall development timeline may need to be revised if additional documents have been added.<br><br>If requested, previews of in-progress content can be sent so that revisions/additions can be started earlier in the development cycle. If mid-development check-ins are needed, the client will need to make that clear early in the development cycle so that time can be set aside to review these in-process documents. In these cases, the revision policy will still allow for two additional meetings per sprint (assuming two week sprint cycles). <br><br><a href=\"https://drive.google.com/file/d/1280X_fVcj_37UfGEmcgpmpdga9gwdD1O/view?usp=sharing\" target=\"_blank\">View a Sample Game Design Document</a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "P": {
               "color": "#efefef",
-              "font-size": "12px"
+              "font-size": "12px",
+              "text-align": "left"
             }
           }
         },
@@ -681,10 +683,10 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/ezgif.com-crop-3.gif",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://gameheadsoakland.org",
+              "alt": "gif of the colorful Gameheads Oakland website, scrolls through the hompe page, with dynamic webpage animations and bright group pictures of the high school students in the program",
+              "title": "Gameheads Oakland Website",
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -699,7 +701,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "I specialize in creating static web pages that are intuitive and easy to navigate. All websites designed are cross-platform compatible, which is essential for engaging both users who use tables and phones to browse the internet. Additionally, I am able to work with back-end developers and server-side integration for more custom web-browsing experiences.<br><br>As with most of my projects, I can easily onboard to a current development team, or can remain entirely external while making the requested documentation. In the past, I have occasionally brought on an additional engineer to the contract in order to implement more complex systems. If a client has no previous infrastructure, or development team, I will often suggest this course of action. <br><br>View a Sample Website<br>",
+          "text": "I specialize in creating static web pages that are intuitive and easy to navigate. All websites designed are cross-platform compatible, which is essential for engaging both users who use tables and phones to browse the internet. Additionally, I am able to work with back-end developers and server-side integration for more custom web-browsing experiences.<br><br>As with most of my projects, I can easily onboard to a current development team, or can remain entirely external while making the requested documentation. In the past, I have occasionally brought on an additional engineer to the contract in order to implement more complex systems. If a client has no previous infrastructure, or development team, I will often suggest this course of action. <br><br><a href=\"https://gameheadsoakland.org\" target=\"_blank\">View a Sample Website</a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "P": {
@@ -774,10 +776,10 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/ezgif.com-crop-2.gif",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://cryptofengame.github.io",
+              "alt": "gif of the idle mobile game \"Crypt of En\" developed by Kai, 2D creatures are shaking as they take damage on a dark background, the UI is fantasy themed, and slides open to reveal settings and access to a hero recruitement tab",
+              "title": "Crypt of En",
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -792,7 +794,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "I am a part of the USC Games BA class of 2021, and minoring in East Asian Languages and Cultures (Japanese) at the University of Southern California. Coming from the #1 Game Development program in North America (Princeton Review),, I have had experience working with some of the best teams that games academia can offer. I have taken classes with professionals who have worked on titles such as Uncharted, League of Legends, and more. I have experience working in a multitude of game engines including Unity 3D, Unreal Engine, Game Maker, Twine and RenPy.<br><br>View a Mobile Project<br>",
+          "text": "I am a part of the USC Games BA class of 2021, and minoring in East Asian Languages and Cultures (Japanese) at the University of Southern California. Coming from the #1 Game Development program in North America (Princeton Review),, I have had experience working with some of the best teams that games academia can offer. I have taken classes with professionals who have worked on titles such as Uncharted, League of Legends, and more. I have experience working in a multitude of game engines including Unity 3D, Unreal Engine, Game Maker, Twine and RenPy.<br><br><a href=\"https://cryptofengame.github.io\" target=\"_blank\">View a Mobile Project</a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "P": {
@@ -833,10 +835,10 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/ezgif.com-crop-1.gif",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "http://persuasiongamestudio.com",
+              "alt": "gif of serpent Showdown, a console game directed by Kai. Two cartoon snakes dash around a 3D arena, throwing paper wads at eachother and fencing with colorful crayon-swords",
+              "title": "Serpent Showdown, Console Game",
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -851,7 +853,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "I have shipped PC, mobile and console titles from student projects, as well as through contracts with professionals in the industry. I have performed multiple roles in the game development pipeline including; level design, 3D modeling/animation, production/project management, game directing and more. I have led teams of up to 20 individuals, and have participated on teams of up to 35. <br><br>For App development, I have participated in the MakeSchool summer bootcamp, and have Unity, Swift and wireframing skill sets. I have filled roles in gamification, UX/UI and user research. I have helped companies ideate on their vision, as well as implement their concepts into robust prototypes for events, demos and pitches. Apps that I have worked on have gone on to be featured on NBC's Discovery and Tanoshi Kids platforms. <br><br><br>View a Console Project<br>",
+          "text": "I have shipped PC, mobile and console titles from student projects, as well as through contracts with professionals in the industry. I have performed multiple roles in the game development pipeline including; level design, 3D modeling/animation, production/project management, game directing and more. I have led teams of up to 20 individuals, and have participated on teams of up to 35. <br><br>For App development, I have participated in the MakeSchool summer bootcamp, and have Unity, Swift and wireframing skill sets. I have filled roles in gamification, UX/UI and user research. I have helped companies ideate on their vision, as well as implement their concepts into robust prototypes for events, demos and pitches. Apps that I have worked on have gone on to be featured on NBC's Discovery and Tanoshi Kids platforms. <br><br><br><a href=\"http://persuasiongamestudio.com\" target=\"_blank\">View a Console Project</a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "P": {
@@ -891,7 +893,7 @@
             "showButton": false
           },
           "title": "Resume &amp; Awards",
-          "text": "<p>For more information, please contact: kainyame@gmail.com&nbsp;</p>",
+          "text": "<p>For more information, please contact: <a href=\"mailto:kainyame@gmail.com\" target=\"_blank\">kainyame@gmail.com</a>&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -926,10 +928,10 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/kai-may-resume-1400x1819.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "link": "https://drive.google.com/file/d/1-2J_eh4tKGbwgAOXwcPbdPy34sWeL3RC/view",
+              "alt": "screenshot of Kai's resume, will link to the full PDF if clicked ",
+              "title": "Kai Nyame Resume",
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -944,7 +946,7 @@
             }
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
-          "text": "I have worked on a very large range of projects. Much of this client work is under NDA, however, some of the notable games I have worked on are Ideal Meal, an E3/IndieCade project, as well as games like Boast, and Dragon Crash.<br><br>My contract and personal work has led me to run Kickstarters, design card games, and even road trip across the country to showcase at locations like the Santa Monica Pier, and in the San Francisco Yerba Buena Gardens. My role as a designer on both large and small projects has taught me to never underestimate the power of exploring the more unique and creative avenues. <br><br>View Kai Nyame's Resume<br>",
+          "text": "I have worked on a very large range of projects. Much of this client work is under NDA, however, some of the notable games I have worked on are Ideal Meal, an E3/IndieCade project, as well as games like Boast, and Dragon Crash.<br><br>My contract and personal work has led me to run Kickstarters, design card games, and even road trip across the country to showcase at locations like the Santa Monica Pier, and in the San Francisco Yerba Buena Gardens. My role as a designer on both large and small projects has taught me to never underestimate the power of exploring the more unique and creative avenues. <br><br><a href=\"https://drive.google.com/file/d/1-2J_eh4tKGbwgAOXwcPbdPy34sWeL3RC/view\" target=\"_blank\">View Kai Nyame's Resume</a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "P": {
@@ -987,8 +989,8 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/kai-laurels-2-1400x786.png",
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "image with laurels and awards to Kai, Including ",
+              "title": "Awards and Recognition",
               "linkInNewWindow": false
             },
             "video": {
@@ -1029,9 +1031,9 @@
                   "width": 160,
                   "active": true,
                   "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
+                  "alt": "photo of the reference, Alfonso Hooker",
+                  "title": "Alfonso Hooker",
+                  "linkInNewWindow": true
                 }
               },
               "authorName": "Alfonso Hooker",

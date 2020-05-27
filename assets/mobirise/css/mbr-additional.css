@@ -503,10 +503,12 @@ h6,
 #msg-box5-m P {
   color: #efefef;
   font-size: 12px;
+  text-align: left;
 }
 #msg-box5-o P {
   color: #efefef;
   font-size: 12px;
+  text-align: left;
 }
 #msg-box8-8 .mbr-section-title,
 #msg-box8-8 p {
